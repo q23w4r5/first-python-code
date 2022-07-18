@@ -1,0 +1,23 @@
+from  turtle import *
+speed(12)
+shape("turtle")
+
+
+
+    
+    
+
+   
+
+
+    fd(100)
+    rt(40)
+
+
+
+
+     
+
+   
+    
+done()
